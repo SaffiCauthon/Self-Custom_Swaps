@@ -86,7 +86,8 @@ Store,Absorption*
 Custom Hides
 ```
 *,Overload*
-*,Super*
+*,Super Magic*
+*,Super Ranging*
 Check,Bar dispenser
 Check,Melting pot
 Pick,Ancient*
