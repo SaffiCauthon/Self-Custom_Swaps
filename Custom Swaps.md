@@ -35,7 +35,7 @@ Custom Swaps
 *-all,Calcite
 *-all,Coins
 *-all,Dwarf weed potion (unf)
-*-all,Mark*
+*-all,*Mark*
 *-all,Numulite
 *-all,Pyrophosphite
 *-all,Super antifire potion(4)
