@@ -40,6 +40,7 @@ Custom Swaps
 *-all,Super antifire potion(4)
 *-all,Vial of blood
 Amy,Npc contact
+Bank,Banker
 Buy-50,*
 Climb-up,*
 Crafting Guild,Max cape
@@ -55,6 +56,7 @@ Drop,Pie dish
 Drop,Summer pie
 Empty,Bananas*
 Empty,Open*
+Empty,Tackle Box
 Examine,Monkey Trap
 Guzzle,Dwarven rock cake
 Island of stone,Haskell
