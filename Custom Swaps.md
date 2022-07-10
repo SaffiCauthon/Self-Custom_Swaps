@@ -81,6 +81,7 @@ Custom Hides
 *,Super*
 Check,Bar dispenser
 Check,Melting pot
+Pick,Ancient*
 Pick,Strange plant
 Pickpocket,*
 Take,Granite*
