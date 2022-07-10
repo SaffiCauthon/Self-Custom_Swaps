@@ -23,6 +23,7 @@ Custom Swaps
 *-all,*feather
 *-all,*gold
 *-all,*logs
+*-all,*net
 *-all,*pearls
 *-all,*pie
 *-all,*plank
@@ -44,8 +45,11 @@ Bank,Banker
 Buy-50,*
 Climb-up,*
 Crafting Guild,Max cape
+Deposit-items,Deposit Pool
+Destroy,Guard*
 Dismiss,*
 Dream,Dominic onion
+Drop,*Cell
 Drop,*logs
 Drop,Basket
 Drop,Damaged monkey tail
@@ -53,6 +57,7 @@ Drop,Empty*
 Drop,Gold*
 Drop,Granite*
 Drop,Pie dish
+Drop,Portal Tali*
 Drop,Summer pie
 Empty,Bananas*
 Empty,Open*
@@ -60,12 +65,15 @@ Empty,Tackle Box
 Examine,Monkey Trap
 Guzzle,Dwarven rock cake
 Island of stone,Haskell
-Kourend Woodland,Rada's blessing 4
+Kourend Woodland,Rada's*
+Pass,Barrier
 Quick-exit,Magical Obelisk
 Rub,Camulet
 Rub,Slayer ring*
 Story,Juna
 Take,Absorption*
+Talk-to,Dunce
+Talk-to,Genie
 Use,Cannonball -> Dwarf*
 ```
 
@@ -85,28 +93,9 @@ Pick,Ancient*
 Pick,Strange plant
 Pickpocket,*
 Take,Granite*
-Talk-to,Bee keeper
-Talk-to,Capt' arnav
 Talk-to,Desmodus*
-Talk-to,Dr jekyll
-Talk-to,Drunken dwarf
-Talk-to,Dunce
-Talk-to,Evil bob
-Talk-to,Flippa
-Talk-to,Freaky forester
-Talk-to,Frog
-Talk-to,Giles
 Talk-to,Haemas*
-Talk-to,Leo
-Talk-to,Miles
-Talk-to,Mysterious old man
-Talk-to,Niles
 Talk-to,Noctillion*
-Talk-to,Pillory guard
-Talk-to,Postie pete
-Talk-to,Rick turpentine
-Talk-to,Sandwich lady
-Talk-to,Sergeant damien
 Talk-to,Valentina*
 Use,Coffer
 ```
