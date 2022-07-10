@@ -8,6 +8,10 @@ Custom Swaps
 *-1,Stamina potion(2)
 *-1,Stamina potion(3)
 *-10,Stamina potion(4)
+*-14,Crushed nest
+*-14,Lantadyme potion (unf)
+*-14,Potato cactus
+*-14,Toadflax potion (unf)
 *-all,*ashes
 *-all,*ball
 *-all,*bar
@@ -35,10 +39,6 @@ Custom Swaps
 *-all,Pyrophosphite
 *-all,Super antifire potion(4)
 *-all,Vial of blood
-*-X,Crushed nest
-*-X,Lantadyme potion (unf)
-*-X,Potato cactus
-*-X,Toadflax potion (unf)
 Amy,Npc contact
 Buy-50,*
 Climb-up,*
