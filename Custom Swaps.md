@@ -1,3 +1,6 @@
+Download plugin from the Plugin Hub.
+https://github.com/geheur/More-menu-entry-swaps
+
 Custom Swaps
 ```
 *-1,Binding necklace
