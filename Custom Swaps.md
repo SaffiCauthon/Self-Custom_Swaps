@@ -69,6 +69,7 @@ Use,Cannonball -> Dwarf*
 
 Custom Shift
 ```
+Other Teleports,Max cape
 Store,Absorption*
 ```
 
