@@ -1,6 +1,8 @@
 Download plugin from the Plugin Hub.
 https://github.com/geheur/More-menu-entry-swaps
 
+ITEMS LOWER IN LISTS OVERRIDE ITEMS PRIOR.
+
 Custom Swaps
 ```
 *-1,Binding necklace
