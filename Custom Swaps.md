@@ -79,7 +79,12 @@ Use,Cannonball -> Dwarf*
 
 Custom Shift
 ```
+*able spell filtering
+*Clear history
+Look east
 Other Teleports,Max cape
+Set custom quantity
+Setup,Quick-prayers
 Store,Absorption*
 ```
 
