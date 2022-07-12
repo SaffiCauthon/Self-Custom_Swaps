@@ -77,6 +77,7 @@ Take,Absorption*
 Talk-to,Dunce
 Talk-to,Genie
 Use,Cannonball -> Dwarf*
+Withdraw-1, Volcanic Mine*
 ```
 
 Custom Shift
