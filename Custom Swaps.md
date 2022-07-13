@@ -6,9 +6,7 @@ ITEMS LOWER IN LISTS OVERRIDE ITEMS PRIOR.
 Custom Swaps
 ```
 *-1,Binding necklace
-*-1,Stamina potion(1)
-*-1,Stamina potion(2)
-*-1,Stamina potion(3)
+*-1,Stamina potion*
 *-10,Stamina potion(4)
 *-14,Crushed nest
 *-14,Lantadyme potion (unf)
@@ -45,7 +43,7 @@ Custom Swaps
 *-all,Vial of blood
 Amy,Npc contact
 Bank,Banker
-Buy-50,*
+Buy*50,*
 Climb-up,*
 Crafting Guild,Max cape
 Deposit-items,Deposit Pool
@@ -78,8 +76,11 @@ Take,Absorption*
 Talk-to,Dunce
 Talk-to,Genie
 Use,Cannonball -> Dwarf*
+Withdraw-1,Divine super*(2)
+Withdraw-1,Extended super*(2)
 Withdraw-1,Volcanic Mine*
-Withdraw-5,Super combat*
+Withdraw-4,Prayer*(4)
+Withdraw-5,Super combat*(4)
 ```
 
 Custom Shift
