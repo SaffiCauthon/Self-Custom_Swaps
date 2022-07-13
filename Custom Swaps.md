@@ -42,6 +42,7 @@ Custom Swaps
 *-all,Super antifire potion(4)
 *-all,Vial of blood
 Amy,Npc contact
+Bank,*
 Bank,Banker
 Buy*50,*
 Climb-up,*
@@ -75,6 +76,7 @@ Story,Juna
 Take,Absorption*
 Talk-to,Dunce
 Talk-to,Genie
+Use,Bank*
 Use,Cannonball -> Dwarf*
 Withdraw-1,Divine super*(2)
 Withdraw-1,Extended super*(2)
@@ -101,6 +103,8 @@ Custom Hides
 *,Super Ranging*
 Check,Bar dispenser
 Check,Melting pot
+Close,Door
+Pet,*
 Pick,Ancient*
 Pick,Strange plant
 Pickpocket,*
