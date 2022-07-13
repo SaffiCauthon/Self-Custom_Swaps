@@ -25,6 +25,7 @@ Custom Swaps
 *-all,*feather
 *-all,*gold
 *-all,*logs
+*-all,*Mark*
 *-all,*net
 *-all,*pearls
 *-all,*pie
@@ -34,10 +35,10 @@ Custom Swaps
 *-all,*teleport
 *-all,*tip
 *-all,*token
+*-all,Absorption*
 *-all,Calcite
 *-all,Coins
 *-all,Dwarf weed potion (unf)
-*-all,*Mark*
 *-all,Numulite
 *-all,Pyrophosphite
 *-all,Super antifire potion(4)
@@ -77,7 +78,8 @@ Take,Absorption*
 Talk-to,Dunce
 Talk-to,Genie
 Use,Cannonball -> Dwarf*
-Withdraw-1, Volcanic Mine*
+Withdraw-1,Volcanic Mine*
+Withdraw-5,Super combat*
 ```
 
 Custom Shift
