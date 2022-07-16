@@ -78,6 +78,7 @@ Talk-to,Dunce
 Talk-to,Genie
 Use,Bank*
 Use,Cannonball -> Dwarf*
+Wear,Golden*
 Withdraw-1,Divine super*(2)
 Withdraw-1,Extended super*(2)
 Withdraw-1,Volcanic Mine*
