@@ -68,6 +68,7 @@ Examine,Monkey Trap
 Guzzle,Dwarven rock cake
 Island of stone,Haskell
 Kourend Woodland,Rada's*
+Last destination,Ring*
 Pass,Barrier
 Quick-exit,Magical Obelisk
 Rub,Camulet
@@ -76,6 +77,7 @@ Story,Juna
 Take,Absorption*
 Talk-to,Dunce
 Talk-to,Genie
+Use,*-> Altar
 Use,Bank*
 Use,Cannonball -> Dwarf*
 Wear,Golden*
@@ -114,5 +116,6 @@ Talk-to,Desmodus*
 Talk-to,Haemas*
 Talk-to,Noctillion*
 Talk-to,Valentina*
+Use,*Mysterious Glow
 Use,Coffer
 ```
