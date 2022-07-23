@@ -5,7 +5,6 @@ ITEMS LOWER IN LISTS OVERRIDE ITEMS PRIOR.
 
 Custom Swaps
 ```
-*-1,Binding necklace
 *-1,Stamina potion*
 *-10,Stamina potion(4)
 *-14,Crushed nest
