@@ -52,6 +52,7 @@ Dismiss,*
 Dream,Dominic onion
 Drop,*Cell
 Drop,*logs
+Drop,Ashes
 Drop,Basket
 Drop,Damaged monkey tail
 Drop,Empty*
@@ -79,6 +80,7 @@ Talk-to,Genie
 Use,*-> Altar
 Use,Bank*
 Use,Cannonball -> Dwarf*
+Use,Redwood logs
 Wear,Golden*
 Withdraw-1,Divine super*(2)
 Withdraw-1,Extended super*(2)
