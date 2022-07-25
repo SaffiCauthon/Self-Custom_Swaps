@@ -94,19 +94,19 @@ Custom Shift
 *able spell filtering
 *Clear history
 Look east
-Tele to POH,Max cape
 Set custom quantity
 Setup,Quick-prayers
 Store,Absorption*
+Tele to POH,Max cape
 ```
 
 Custom Hides
 ```
+*,Curufin
 *,Overload*
 *,Super Magic*
 *,Super Ranging*
-*,ystwyth
-*,curufin
+*,Ystwyth
 Check,Bar dispenser
 Check,Melting pot
 Close,Door
@@ -119,6 +119,7 @@ Take,Granite*
 Talk-to,Desmodus*
 Talk-to,Haemas*
 Talk-to,Noctillion*
+Talk-to,Romeo
 Talk-to,Valentina*
 Use,*Mysterious Glow
 Use,Coffer
