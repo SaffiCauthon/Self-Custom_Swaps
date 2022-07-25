@@ -20,7 +20,7 @@ Custom Swaps
 *-all,*dust
 *-all,*essence
 *-all,*feather
-*-all,*gold
+*-all,*gold*
 *-all,*logs
 *-all,*Mark*
 *-all,*net
