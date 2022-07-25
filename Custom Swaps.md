@@ -105,11 +105,14 @@ Custom Hides
 *,Overload*
 *,Super Magic*
 *,Super Ranging*
+*,ystwyth
+*,curufin
 Check,Bar dispenser
 Check,Melting pot
 Close,Door
 Pet,*
 Pick,Ancient*
+Pick,Flax
 Pick,Strange plant
 Pickpocket,*
 Take,Granite*
