@@ -5,6 +5,7 @@ ITEMS LOWER IN LISTS OVERRIDE ITEMS PRIOR.
 
 Custom Swaps
 ```
+*-1,Ring of wealth*
 *-1,Stamina potion*
 *-10,Stamina potion(4)
 *-14,Crushed nest
@@ -40,6 +41,7 @@ Custom Swaps
 *-all,Pyrophosphite
 *-all,Super antifire potion(4)
 *-all,Vial of blood
+*Glade,Xeric's*
 Amy,Npc contact
 Bank,*
 Bank,Banker
@@ -65,18 +67,21 @@ Empty,Bananas*
 Empty,Open*
 Empty,Tackle Box
 Examine,Monkey Trap
+Falador,Ring*
 Guzzle,Dwarven rock cake
 Island of stone,Haskell
 Kourend Woodland,Rada's*
 Last destination,Ring*
 Pass,Barrier
 Quick-exit,Magical Obelisk
+Rub,*Necklace*
 Rub,Camulet
 Rub,Slayer ring*
 Story,Juna
 Take,Absorption*
 Talk-to,Dunce
 Talk-to,Genie
+Teleport,Achievement*
 Use,*-> Altar
 Use,Bank*
 Use,Cannonball -> Dwarf*
@@ -85,6 +90,7 @@ Wear,Golden*
 Withdraw-1,Divine super*(2)
 Withdraw-1,Extended super*(2)
 Withdraw-1,Volcanic Mine*
+Withdraw-3,Steel bar
 Withdraw-4,Prayer*(4)
 Withdraw-5,Super combat*(4)
 ```
