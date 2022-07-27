@@ -43,7 +43,6 @@ Custom Swaps
 *-all,Vial of blood
 *Glade,Xeric's*
 Amy,Npc contact
-Bank,*
 Bank,Banker
 Buy*50,*
 Climb-up,*
@@ -67,7 +66,6 @@ Empty,Bananas*
 Empty,Open*
 Empty,Tackle Box
 Examine,Monkey Trap
-Falador,Ring*
 Guzzle,Dwarven rock cake
 Island of stone,Haskell
 Kourend Woodland,Rada's*
@@ -76,6 +74,7 @@ Pass,Barrier
 Quick-exit,Magical Obelisk
 Rub,*Necklace*
 Rub,Camulet
+Rub,Ring of Wealth*
 Rub,Slayer ring*
 Story,Juna
 Take,Absorption*
