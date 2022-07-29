@@ -108,6 +108,7 @@ Tele to POH,Max cape
 Custom Hides
 ```
 *,Curufin
+*,Lava beast
 *,Overload*
 *,Super Magic*
 *,Super Ranging*
