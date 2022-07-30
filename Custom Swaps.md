@@ -84,6 +84,7 @@ Teleport,Achievement*
 Use,*-> Altar
 Use,Bank*
 Use,Cannonball -> Dwarf*
+Use,Plank Sack
 Use,Redwood logs
 Wear,Golden*
 Withdraw-1,Divine super*(2)
