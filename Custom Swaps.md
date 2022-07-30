@@ -7,7 +7,6 @@ Custom Swaps
 ```
 *-1,Ring of wealth*
 *-1,Stamina potion*
-*-10,Stamina potion(4)
 *-14,Crushed nest
 *-14,Lantadyme potion (unf)
 *-14,Potato cactus
