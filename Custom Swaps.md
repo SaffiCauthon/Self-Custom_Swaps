@@ -1,9 +1,8 @@
-Download plugin from the Plugin Hub.
-https://github.com/geheur/More-menu-entry-swaps
+# Notes
+- [Download plugin from the Plugin Hub](https://github.com/geheur/More-menu-entry-swaps).
+- ITEMS LOWER IN LISTS OVERRIDE ITEMS THAT ARE LISTED PRIOR.
 
-ITEMS LOWER IN LISTS OVERRIDE ITEMS PRIOR.
-
-Custom Swaps
+# Custom Swaps
 ```
 *-1,Ring of wealth*
 *-1,Stamina potion*
@@ -94,7 +93,7 @@ Withdraw-5,Super combat*(4)
 Climb*,*
 ```
 
-Custom Shift
+# Custom Shift
 ```
 *able spell filtering
 *Clear history
@@ -105,7 +104,7 @@ Store,Absorption*
 Tele to POH,Max cape
 ```
 
-Custom Hides
+# Custom Hides
 ```
 *,Curufin
 *,Lava beast
