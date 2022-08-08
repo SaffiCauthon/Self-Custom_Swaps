@@ -44,7 +44,6 @@ Custom Swaps
 Amy,Npc contact
 Bank,Banker
 Buy*50,*
-Climb-up,*
 Crafting Guild,Max cape
 Deposit-items,Deposit Pool
 Destroy,Guard*
@@ -92,6 +91,7 @@ Withdraw-1,Volcanic Mine*
 Withdraw-3,Steel bar
 Withdraw-4,Prayer*(4)
 Withdraw-5,Super combat*(4)
+Climb*,*
 ```
 
 Custom Shift
