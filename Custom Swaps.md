@@ -83,8 +83,8 @@ Talk-to,Genie
 Teleport,Achievement*
 Use-rod,Fishing*
 Use,*-> Altar
+Use,*Cannonball -> Dwarf*
 Use,Bank*
-Use,Cannonball -> Dwarf*
 Use,Plank Sack
 Use,Redwood logs
 W*-1,*4
