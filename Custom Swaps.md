@@ -20,7 +20,6 @@
 *-all,*dust
 *-all,*essence
 *-all,*feather
-*-all,*gold*
 *-all,*logs
 *-all,*Mark*
 *-all,*net
@@ -36,6 +35,7 @@
 *-all,Calcite
 *-all,Coins
 *-all,Dwarf weed potion (unf)
+*-all,Gold ore
 *-all,Numulite
 *-all,Pyrophosphite
 *-all,Super antifire potion(4)
@@ -63,6 +63,7 @@ Drop,Summer pie
 Empty,Bananas*
 Empty,Open*
 Empty,Tackle Box
+Enter,Smoky Cave
 Examine,Monkey Trap
 Guzzle,Dwarven rock cake
 Island of stone,Haskell
@@ -79,18 +80,22 @@ Take,Absorption*
 Talk-to,Dunce
 Talk-to,Genie
 Teleport,Achievement*
+Use-rod,Fishing*
 Use,*-> Altar
 Use,Bank*
 Use,Cannonball -> Dwarf*
 Use,Plank Sack
 Use,Redwood logs
-Wear,Golden*
-Withdraw-1,Divine super*(2)
-Withdraw-1,Extended super*(2)
-Withdraw-1,Volcanic Mine*
-Withdraw-3,Steel bar
-Withdraw-4,Prayer*(4)
-Withdraw-5,Super combat*(4)
+W*-1,*4
+W*-1,*Brace*
+W*-1,Anti*
+W*-1,Divine*
+W*-1,Extended*
+W*-1,Tai bwo*
+W*-1,Volcanic Mine*
+W*-3,Steel bar
+W*-4,Prayer*
+W*-5,Super combat*
 Climb*,*
 ```
 
