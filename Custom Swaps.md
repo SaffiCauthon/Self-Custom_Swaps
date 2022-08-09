@@ -42,6 +42,7 @@
 *-all,Vial of blood
 *Glade,Xeric's*
 Amy,Npc contact
+Attack,*Nech*
 Bank,Banker
 Buy*50,*
 Crafting Guild,Max cape
