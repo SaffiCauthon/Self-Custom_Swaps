@@ -76,6 +76,7 @@ Rub,*Necklace*
 Rub,Camulet
 Rub,Ring of Wealth*
 Rub,Slayer ring*
+Sell*5,*
 Story,Juna
 Take,Absorption*
 Talk-to,Dunce
