@@ -98,6 +98,7 @@ W*-1,Volcanic Mine*
 W*-3,Steel bar
 W*-4,Prayer*
 W*-5,Super combat*
+W*-5,Vampyre dust
 Climb*,*
 ```
 
