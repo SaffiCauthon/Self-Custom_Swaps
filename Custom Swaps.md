@@ -88,7 +88,7 @@ Use-rod,Fishing*
 Use,*-> Altar
 Use,*Cannonball -> Dwarf*
 Use,Bank*
-Use,Plank Sack
+Use,Plank sack
 Use,Redwood logs
 W*-1,*4
 W*-1,*Brace*
@@ -101,6 +101,7 @@ W*-3,Steel bar
 W*-4,Prayer*
 W*-5,Super combat*
 W*-5,Vampyre dust
+Check,Plank sack
 Climb*,*
 ```
 
