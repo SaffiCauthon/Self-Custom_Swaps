@@ -47,6 +47,7 @@ Amy,Npc contact
 Attack,*Nech*
 Bank,Banker
 Buy*50,*
+Claim-slime,*
 Crafting Guild,Max cape
 Deposit-items,Deposit Pool
 Destroy,Guard*
@@ -97,6 +98,7 @@ W*-1,Divine*
 W*-1,Extended*
 W*-1,Tai bwo*
 W*-1,Volcanic Mine*
+W*-14,Superior dragon bones
 W*-3,Steel bar
 W*-4,Prayer*
 W*-5,Super combat*
