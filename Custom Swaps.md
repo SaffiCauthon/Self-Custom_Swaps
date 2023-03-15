@@ -55,6 +55,7 @@ Dismiss,*
 Dream,Dominic onion
 Drop,*Cell
 Drop,*logs
+Drop,*ore
 Drop,Ashes
 Drop,Basket
 Drop,Damaged monkey tail
@@ -73,6 +74,8 @@ Guzzle,Dwarven rock cake
 Island of stone,Haskell
 Kourend Woodland,Rada's*
 Last destination,Ring*
+Mine, Granite rocks
+Mine, Iron rocks
 Pass,Barrier
 Quick-exit,Magical Obelisk
 Rub,*Necklace*
