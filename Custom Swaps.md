@@ -82,7 +82,7 @@ Rub,*Necklace*
 Rub,Camulet
 Rub,Ring of Wealth*
 Rub,Slayer ring*
-Sell*5,*
+Sell*50,*
 Story,Juna
 Take,Absorption*
 Talk-to,Dunce
@@ -104,6 +104,7 @@ W*-1,Volcanic Mine*
 W*-14,Superior dragon bones
 W*-3,Steel bar
 W*-4,Prayer*
+W*-4,Super restore*
 W*-5,Super combat*
 W*-5,Vampyre dust
 Check,Plank sack
@@ -136,7 +137,6 @@ Pet,*
 Pick,Ancient*
 Pick,Flax
 Pick,Strange plant
-Pickpocket,*
 Take,Granite*
 Talk-to,Desmodus*
 Talk-to,Haemas*
