@@ -60,7 +60,8 @@ Drop,Ashes
 Drop,Basket
 Drop,Damaged monkey tail
 Drop,Empty*
-Drop,Gold*
+Drop,Gold bar
+Drop,Gold ore
 Drop,Granite*
 Drop,Pie dish
 Drop,Portal Tali*
