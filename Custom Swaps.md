@@ -2,7 +2,6 @@
 - [Download plugin from the Plugin Hub](https://github.com/geheur/More-menu-entry-swaps).
 - [Here is a .GIF on how to install the plugin and use this list](https://i.imgur.com/P0BNx6d.gif).
 - ITEMS LOWER IN LISTS OVERRIDE ITEMS THAT ARE LISTED PRIOR.
-- If things break it is Dear Sleeper's fault, as they helped come up with quite a few of these. 🤭
 
 
 # Custom Swaps
